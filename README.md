@@ -21,5 +21,5 @@
 
 
 ##### [2019-01-05][paper 5]
-* Accurate tracking by overlap maximization. [[paper](https://arxiv.org/pdf/1811.07628.pdf)]/[[blog](https://blog.csdn.net/sinat_27318881/article/details/84668861)]
+* Accurate tracking by overlap maximization. [[paper](https://arxiv.org/pdf/1811.07628.pdf)] [[blog](https://blog.csdn.net/sinat_27318881/article/details/84668861)]
 * CVPR2019
