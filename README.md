@@ -24,3 +24,9 @@
 * Accurate tracking by overlap maximization. [[paper](https://arxiv.org/pdf/1811.07628.pdf)] [[blog](https://blog.csdn.net/sinat_27318881/article/details/84668861)] [[code](https://github.com/visionml/pytracking)]
 * CVPR2019
 * DiMP and ATOM Trackers
+
+
+##### [2020-01-15][paper 6]
+* Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking [[paper](https://arxiv.org/pdf/1803.08679.pdf)][[code](https://github.com/GarfieldF/RGBT-tracking)]
+* STRCF
+* HIT 
