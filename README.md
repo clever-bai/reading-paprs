@@ -64,7 +64,7 @@
 #### 4月新看到的论文有空要康康
 ##### [2020-04][paper 1]
 * [Synthetic data generation for end-to-end thermal infrared tracking](https://arxiv.org/pdf/1806.01013.pdf) [[code](https://github.com/Alexadlu/generatedTIR_tracking)]
-* Author Hithub [[website](https://github.com/Alexadlu)]
+* Author Github [[website](https://github.com/Alexadlu)]
 
 ##### [2020-04][paper 2]
 * [Target-Aware Deep Tracking](https://blog.csdn.net/sinat_31184961/article/details/89282232)
