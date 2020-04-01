@@ -25,8 +25,8 @@
 #### STRCF系列论文 //
 ##### [2020-01-15][paper 5]
 * Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking [[paper](https://arxiv.org/pdf/1803.08679.pdf)][[code](https://github.com/GarfieldF/RGBT-tracking)]
-* STRCF/DeepSTRCF
-* RGBT experience 
+  * STRCF/DeepSTRCF
+  * RGBT experience 
 
 ##### [2020-03][paper 6]
 * Learning Spatially Regularized Correlation Filters for Visual Tracking
