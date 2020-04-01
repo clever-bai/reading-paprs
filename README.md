@@ -3,7 +3,7 @@
 ### About tracking
 
 ##### [2018-12-24][paper 1]
-* [Multi-Modal Fusion for End-to-End RGB-T Tracking(https://arxiv.org/pdf/1908.11714v1.pdf)] [[code](https://github.com/Alexadlu/MANet)]
+* [Multi-Modal Fusion for End-to-End RGB-T Tracking](https://arxiv.org/pdf/1908.11714v1.pdf) [[code](https://github.com/Alexadlu/MANet)]
 * ICCV2019
 
 ##### [2018-12-26][paper 2]
