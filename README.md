@@ -7,24 +7,24 @@
 * ICCV2019
 
 ##### [2018-12-26][paper 2]
-* [[Multi-Adapter RGBT Tracking] (https://arxiv.org/pdf/1907.07485.pdf)]
+* [[Multi-Adapter RGBT Tracking](https://arxiv.org/pdf/1907.07485.pdf)]
 * ICCV2019
 
 
 ##### [2019-01-05][paper 3]
-* [[Learning Multi-Domain Convolutional Neural Networks for Visual Tracking] (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780834)]
+* [[Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780834)]
 * CVPR2016
 
 
 ##### [2019-01-05][paper 4]
-* [[Accurate tracking by overlap maximization] (https://arxiv.org/pdf/1811.07628.pdf)] [[blog](https://blog.csdn.net/sinat_27318881/article/details/84668861)] [[code](https://github.com/visionml/pytracking)]
+* [[Accurate tracking by overlap maximization](https://arxiv.org/pdf/1811.07628.pdf)] [[blog](https://blog.csdn.net/sinat_27318881/article/details/84668861)] [[code](https://github.com/visionml/pytracking)]
 * CVPR2019
 * DiMP and ATOM Trackers
 
 
 #### STRCF系列论文 //
 ##### [2020-01-15][paper 5]
-* [[Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking] (https://arxiv.org/pdf/1803.08679.pdf)][[code](https://github.com/GarfieldF/RGBT-tracking)]
+* [[Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking](https://arxiv.org/pdf/1803.08679.pdf)][[code](https://github.com/GarfieldF/RGBT-tracking)]
   * STRCF/DeepSTRCF
   * RGBT experience 
 
